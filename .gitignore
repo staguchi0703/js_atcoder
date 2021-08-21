@@ -1,0 +1,8 @@
+.cache
+.gnupg
+.npm
+.ssh
+.vscode
+.vscode-server
+.bash_history
+.gitconfig
